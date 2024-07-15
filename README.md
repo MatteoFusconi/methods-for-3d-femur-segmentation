@@ -2,7 +2,7 @@
 
 Authors: Matteo Fusconi, Francesco Pivi
 
-To reproduce these experiments, the following dependencies are needed.
+To reproduce the experiments, for the 3D part you will need these dependencies:
 
 1. Optional, create a new python environment
 ```
@@ -14,3 +14,5 @@ python -m venv /path/to/env/
 ```
 pip install totalsegmentator
 ```
+
+For the 2D part, run the notebooks in Google Colab
